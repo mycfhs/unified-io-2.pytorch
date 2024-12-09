@@ -1,0 +1,10 @@
+# python=3.10
+pip install numpy==1.24.3   # 反正得1.x版本
+
+pip install tensorflow-gpu==2.8.0
+
+# visual
+pip install opencv-python
+
+
+# TO
